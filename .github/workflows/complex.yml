@@ -1,33 +1,4 @@
-Skip to content
-Navigation Menu
-arpitapalc13
-complex-workflow
-
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-.github/workflows/complex.yml
-Create complex.yml #1
-Jobs
-Run details
-Workflow file for this run
-.github/workflows/complex.yml at 1ea61e7
 name: Complex
- Check failure on line 1 in .github/workflows/complex.yml
-
-
-GitHub Actions
-/ .github/workflows/complex.yml
-Invalid workflow file
-
-Invalid `steps` value - steps should be list of `uses` or `run` items
 
 on: push
 
